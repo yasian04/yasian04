@@ -6,11 +6,12 @@ Hello 👋, I'm Ong Ya Sian. I'm currently staying in Skudai, Johor. I am a stud
 **CORE**
 
 **EDUCATION :**
-I grew up in Johor. Thus I studied in Johor for both primary and secondary school. The primary school I attended was SJK(C) Pei Hwa, a school located in Perling, and I graduated there. After that, I attended SMK Dato' Usman Awang for secondary school, which was also a school in Perling. After graduation, I started studying in the foundation of UTM. One year later, I was admitted to UTM for Software Engineering.
+
+- I grew up in Johor. Thus I studied in Johor for both primary and secondary school. The primary school I attended was SJK(C) Pei Hwa, a school located in Perling, and I graduated there. After that, I attended SMK Dato' Usman Awang for secondary school, which was also a school in Perling. After graduation, I started studying in the foundation of UTM. One year later, I was admitted to UTM for Software Engineering.
 
 **Position :**
 
-Now I'm just a student, still learning some basic computer languages. For instance, C++.
+- Now I'm just a student, still learning some basic computer languages. For instance, C++.
 
 **Skills :**
 
