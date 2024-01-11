@@ -7,15 +7,15 @@
 
 # 2. Assignments
 
-#### Industry Talk and Industry Visit
-######       Assignment 1 (Format: Poster)📊
-######       Assignment 2 (Format: Video) 🎥
-######       Assignment 3 (Format: Report) 
-######       Assignment 4 (Format: Technical Paper IEEE Format) 📚
+#### a. Industry Talk and Industry Visit
+######       - Assignment 1 (Format: Poster)📊
+######       - Assignment 2 (Format: Video) 🎥
+######       - Assignment 3 (Format: Report) 
+######       - Assignment 4 (Format: Technical Paper IEEE Format) 📚
 
-#### PC Assemble (Lab) 📝
+#### b. PC Assemble (Lab) 📝
 
-#### Design Thinking (Low Fidelity Prototype)🎨
+#### c. Design Thinking (Low Fidelity Prototype)🎨
 
 # 3. Reflections for Each Assignment
 ####       a. Summarize What You Have Gained
