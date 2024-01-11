@@ -12,6 +12,22 @@ I grew up in Johor. Thus I studied in Johor for both primary and secondary schoo
 
 Now I'm just a student, still learning some basic computer languages. For instance, C++.
 
+**Skills :**
+
+- Simple video editing techniques. For example, add subtitles and background music.
+- Ability to use Microsoft Excel and Microsoft Word.
+
+**Recommended**
+
+**Courses :**
+
+- Software Engineering, expected to end course in 2028。
+
+**Certificate :**
+
+- SPM Certificate,obtained in 2021.
+- MUET Certificate, obtained in 2022.
+
 
 
 
