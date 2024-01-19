@@ -29,10 +29,9 @@ Hello 👋, I'm Ong Ya Sian. I'm currently staying in Skudai, Johor. I am a stud
 - SPM Certificate,obtained in 2021.
 - MUET Certificate, obtained in 2022.
 
-**Additional**
-
 **Projects :**
-I'm doing the report of design thinking that are developed about an application that alert us to the presence of viruses on our devices or software at any time. I think it is a little bit complicated for me.
+
+- I'm doing the report of design thinking that are developed about an application that alert us to the presence of viruses on our devices or software at any time. I think it is a little bit complicated for me.
 
 
 
