@@ -2,7 +2,7 @@
 
 **Summarize of Industry Talk and Industry Visit :**
 
-- From Assignment 1，I participated in NALI activities. I interviewed many people during this event. Therefore, I learned many from my seniors about their experiences and insights on this subject.![image](https://github.com/yasian04/yasian04/assets/148427326/41a18306-8f30-42e4-bb6a-acb9a51854a4)
+- From Assignment 1，I participated in NALI activities. NALI stands for New Academia Learning Innovation, a framework to promote innovative teaching and learning practices in education. For example, using Google Meet and Webex for online learning. I interviewed many people during this event. Therefore, I learned many from my seniors about their experiences and insights on this subject. I also know 
 
 - From Assignment 2, I learned that the skills and scope of work required to be proficient in each job in the ICT field from Clarity Techworks. For example,ICT fields include Android Developer and QA Testing Analyst.They also shared their work experience with us and provided suggestions.
 - From Assignment 3, I know the work content of UTMDigital. For example, it contains several areas such as DigitalCare, Data Center and so on. Through interviews, we also learned about some of UTMDigital’s achievements .All network connections within UTM come from UTMDigital.Hence, UTMDigital is an integral part of UTM.
