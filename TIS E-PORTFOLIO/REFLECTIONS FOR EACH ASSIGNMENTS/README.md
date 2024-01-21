@@ -14,7 +14,8 @@
 
   
 - From Assignment 4, I learned about Credence,TM, which is a new cloud and digital services company, and what the goals of this company are. From the speaker's speech, I learned the details of system development and the technologies and tools used by Credence in system development. In addition, I also know that the descriptio of system development in TM, Credence.
-![image](https://github.com/yasian04/yasian04/assets/148427326/20318ee3-e933-4a45-8dbd-8293e9e79455)
+![image](https://github.com/yasian04/yasian04/assets/148427326/80971f7a-5f32-4c5a-a458-62414302ff1c)
+
 
   
 - In the PC Assembly Laboratory, I learned that a computer is composed of several important parts. For example, system board, memory and microprocessor.It is my first time seeing the inside components of a PC. I have also personally experienced the entire process of disassembling and assembling computers.
