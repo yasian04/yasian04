@@ -21,6 +21,9 @@
 - In the PC Assembly Laboratory, I learned that a computer is composed of several important parts. For example, system board, memory and microprocessor.It is my first time seeing the inside components of a PC. I have also personally experienced the entire process of disassembling and assembling computers.
 ![image](https://github.com/yasian04/yasian04/assets/148427326/c92c3830-fe32-4bc7-a8b1-c73c825161ef)
 
+- In the design thinking project,My team members and I decided on the project we wanted to do through discussion. Next, we assigned tasks. I learned how to make a simple version of the application page and discovered their functions. In addition, my teammates and I collaborated to complete the report in a short period of time.The following is the application interface made through Figma.
+  - https://www.figma.com/proto/qJEModl8g8OTFyOn9oyW7J/Untitled?node-id=5-3&starting-point-node-id=5%3A3&mode=design&t=64xRDB7VgnbNpGH0-1
+
 
 **Improvement**
 
