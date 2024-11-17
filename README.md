@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ong Ya Sian</h1>
-<h3 align="center">I'm a student in the first semester of my first year in Software Engineering in UTM. I have just learned some basic information about computer technology. I am very passionate about this course. My goal is to become a backend developer from Malaysia.I'm currently staying in Skudai,Johor.</h3>
+<h3 align="center">I'm a student in the first semester of my second year in Software Engineering in UTM. I have just learned some basic information about computer technology. I am very passionate about this course. My goal is to become a backend developer from Malaysia.I'm currently staying in Skudai,Johor.</h3>
 
 - 🌱 I’m currently learning **C++**
 
