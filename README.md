@@ -5,7 +5,7 @@
 - 💡 I recently started exploring the exciting world of **Computer Technology**  
 - 🚀 My dream is to become a **Backend Developer** and contribute to impactful tech solutions  
 - 📍 Currently based in **Skudai, Johor**  
-- 🌱 I’m currently learning **C++** and sharpening my programming fundamentals  
+- 🌱 I’m currently learning **HTML,CSS,JS** and sharpening my programming fundamentals  
 - 🤖 Interested in **backend frameworks, databases**, and how systems communicate  
 - 🎯 Future learning goals: **Python, Node.js, MySQL/PostgreSQL, APIs, and Cloud deployment**  
 - 🧠 I enjoy solving logical problems and building systems that make life easier  
