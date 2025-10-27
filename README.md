@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ong Ya Sian</h1>
 <h3 align="center">Aspiring Backend Developer | Software Engineering Student @ UTM | Passionate Learner from Malaysia</h3>
 
-- 🎓 I'm a **Year 2 Semester 2** Software Engineering student at **Universiti Teknologi Malaysia (UTM)**  
+- 🎓 I'm a **Year 3 Semester 1** Software Engineering student at **Universiti Teknologi Malaysia (UTM)**  
 - 💡 I recently started exploring the exciting world of **Computer Technology**  
 - 🚀 My dream is to become a **Backend Developer** and contribute to impactful tech solutions  
 - 📍 Currently based in **Skudai, Johor**  
